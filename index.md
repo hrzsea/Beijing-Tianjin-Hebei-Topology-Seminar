@@ -1,7 +1,10 @@
 ![logomixed](https://github.com/hrzsea/Beijing-Tianjin-Hebei-Topology-Seminar/blob/master/logmixed.png)  
 
 # 欢迎来到京津冀地区拓扑讨论班   
-## (Welcome to BTH Topology Seminar)  
+## (Welcome to 3J Topology Seminar)  
+_(1stJ=Jing (京), 2ndJ=Jin (津), 3rdJ=Ji (冀))_  
+
+
 
 2019年夏，来自中国科学院数学与系统科学研究院、南开大学数学科学学院、河北师范大学数学与信息科学学院的拓扑同仁共同发起并筹备了一个由三所单位为主体的常规拓扑讨论班。该讨论班旨在促进该地区拓扑学的研究与进展，特别是希望为培养及锻炼该地区拓扑方向的青年研究人员的研究及相关业务能力提供一个可靠的平台，开拓研究视野，增进学术交流。  
 
@@ -41,9 +44,9 @@ At the summer of 2019, the topologists, from [Academy of Mathematics and Systems
 - 总联络人          黄瑞芝  (Ruizhi Huang, huangrz@amss.ac.cn)  
 
 **如您有意参加讨论班，请联系以上任意一位联络人。**  
-**(If you are interested in BTH seminar, please contact any of the four coordinators)**  
+**(If you are interested in 3J seminar, please contact any of the four coordinators)**  
 
 # 历次讨论班记录 （The list of historical seminars)  
 
--	[第一次讨论班，河北师范大学 (The 1st seminar, HNU)](https://hrzsea.github.io/1st-BTH-Topolgy-Seminar/)  
+-	[第一次讨论班，河北师范大学 (The 1st seminar, HNU)](https://hrzsea.github.io/1st-3J-Topolgy-Seminar/)  
 
