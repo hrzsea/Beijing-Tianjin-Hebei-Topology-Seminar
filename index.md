@@ -1,4 +1,4 @@
-![image](https://github.com/hrzsea/Beijing-Tianjin-Hebei-Topology-Seminar/blob/master/logmixed.png)  
+![logomixed](https://github.com/hrzsea/Beijing-Tianjin-Hebei-Topology-Seminar/blob/master/logmixed.png)  
 
 # 欢迎来到京津冀地区拓扑讨论班   
 ## (Welcome to BTH Topology Seminar)  
