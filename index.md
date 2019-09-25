@@ -43,5 +43,5 @@ At the summer of 2019, the topologists, from [Academy of Mathematics and Systems
 
 # 历次讨论班记录 （The list of historical seminars)  
 
--	[第一次讨论班，河北师范大学 (The 1st seminar, HNU)](https://hrzsea.github.io/bthtop1/)  
+-	[第一次讨论班，河北师范大学 (The 1st seminar, HNU)](https://hrzsea.github.io/1st-BTH-Topolgy-Seminar/)  
 
