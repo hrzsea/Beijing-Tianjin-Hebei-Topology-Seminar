@@ -1,9 +1,9 @@
 # 欢迎来到京津冀地区拓扑讨论班   
-(Welcome to BTH Topology Seminar)  
+## (Welcome to BTH Topology Seminar)  
 
 2019年夏，来自中国科学院数学与系统科学研究院、南开大学数学科学学院、河北师范大学数学与信息科学学院的拓扑同仁共同发起并筹备了一个由三所单位为主体的常规拓扑讨论班。该讨论班旨在促进该地区拓扑学的研究与进展，特别是希望为培养及锻炼该地区拓扑方向的青年研究人员的研究及相关业务能力提供一个可靠的平台，开拓研究视野，增进学术交流。  
 
-At the summer of 2019, the topologists, from Academy of Mathematics and Systems Science at Chinese Academy of Science (CAS), School of Mathematical Science at Nankai University (Nankai) and College of Mathematics and Information Science at Heibei Normal University (HNU), initiated and organized a regular topology seminar, with these three institutions as the main body. This seminar is aimed to promote the research and the development of topology in this district. Especially, it wishes to apply a reliable platform for the young topologists in this district to cultivate and develop their own abilities on research and related skills, to expand their research interests and enhance the academic communications.
+At the summer of 2019, the topologists, from [Academy of Mathematics and Systems Science at Chinese Academy of Science (CAS)](http://english.amss.cas.cn/), [School of Mathematical Science at Nankai University (Nankai)](http://en.sms.nankai.edu.cn/) and [College of Mathematics and Information Science at Heibei Normal University (HNU)](http://sxxy.hebtu.edu.cn/), initiated and organized a regular topology seminar, with these three institutions as the main body. This seminar is aimed to promote the research and the development of topology in this district. Especially, it wishes to apply a reliable platform for the young topologists in this district to cultivate and develop their own abilities on research and related skills, to expand their research interests and enhance the academic communications.
 
 # 讨论班基本形式 (The basic form of the seminar)  
 
@@ -16,14 +16,14 @@ At the summer of 2019, the topologists, from Academy of Mathematics and Systems 
   
 # 学术委员会 (Scientific Committee)  
 
-段海豹 中国科学院   (Haibao Duan, CAS)  
-黄瑞芝 中国科学院   (Ruizhi Huang, CAS)    
-刘秀贵 南开大学     (Xiugui Liu, Nankai)  
-潘建中 中国科学院   (Jianzhong Pan, CAS)  
-苏阳   中国科学院   (CAS)  
-王向军 南开大学     (Xiangjun Wang, Nankai)  
-王彦英 河北师范大学 (Yanying Wang, HNU)  
-吴杰   河北师范大学 (Jie Wu, HNU)  
+段海豹 中国科学院   ([Haibao Duan, CAS](http://www.math.ac.cn/kyry/201501/t20150116_276433.html))  
+黄瑞芝 中国科学院   ([Ruizhi Huang, CAS](https://hrzsea.github.io/Huang-Ruizhi/))    
+刘秀贵 南开大学     ([Xiugui Liu, Nankai](http://sms.nankai.edu.cn/2016/1112/c5621a49492/page.htm))  
+潘建中 中国科学院   ([Jianzhong Pan, CAS](http://www.math.ac.cn/kyry/201501/t20150116_276445.html))  
+苏阳   中国科学院   ([Yang Su, CAS](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html))  
+王向军 南开大学     ([Xiangjun Wang, Nankai](http://sms.nankai.edu.cn/2016/1112/c5621a49486/page.htm))  
+王彦英 河北师范大学 ([Yanying Wang, HNU](http://sxxy.hebtu.edu.cn/a/2013/03/24/2013032417051326080.html))  
+吴杰   河北师范大学 ([Jie Wu, HNU](http://www.math.nus.edu.sg/~matwujie/))  
 
 # 讨论班联络人 （Coordinators）  
 
@@ -37,5 +37,5 @@ At the summer of 2019, the topologists, from Academy of Mathematics and Systems 
 
 # 历次讨论班记录 （The list of historical seminars)  
 
--	第一次讨论班，河北师范大学 (The 1st seminar, HNU)  
+-	[第一次讨论班，河北师范大学 (The 1st seminar, HNU)](https://hrzsea.github.io/bthtop1/)  
 
