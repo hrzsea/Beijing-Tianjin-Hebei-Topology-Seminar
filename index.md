@@ -16,21 +16,21 @@ At the summer of 2019, the topologists, from [Academy of Mathematics and Systems
   
 # 学术委员会 (Scientific Committee)  
 
-段海豹 中国科学院   ([Haibao Duan, CAS](http://www.math.ac.cn/kyry/201501/t20150116_276433.html))  
-黄瑞芝 中国科学院   ([Ruizhi Huang, CAS](https://hrzsea.github.io/Huang-Ruizhi/))    
-刘秀贵 南开大学     ([Xiugui Liu, Nankai](http://sms.nankai.edu.cn/2016/1112/c5621a49492/page.htm))  
-潘建中 中国科学院   ([Jianzhong Pan, CAS](http://www.math.ac.cn/kyry/201501/t20150116_276445.html))  
-苏阳   中国科学院   ([Yang Su, CAS](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html))  
-王向军 南开大学     ([Xiangjun Wang, Nankai](http://sms.nankai.edu.cn/2016/1112/c5621a49486/page.htm))  
-王彦英 河北师范大学 ([Yanying Wang, HNU](http://sxxy.hebtu.edu.cn/a/2013/03/24/2013032417051326080.html))  
-吴杰   河北师范大学 ([Jie Wu, HNU](http://www.math.nus.edu.sg/~matwujie/))  
+- 段海豹 中国科学院   ([Haibao Duan, CAS](http://www.math.ac.cn/kyry/201501/t20150116_276433.html))  
+- 黄瑞芝 中国科学院   ([Ruizhi Huang, CAS](https://hrzsea.github.io/Huang-Ruizhi/))    
+- 刘秀贵 南开大学     ([Xiugui Liu, Nankai](http://sms.nankai.edu.cn/2016/1112/c5621a49492/page.htm))  
+- 潘建中 中国科学院   ([Jianzhong Pan, CAS](http://www.math.ac.cn/kyry/201501/t20150116_276445.html))  
+- 苏阳   中国科学院   ([Yang Su, CAS](http://homepage.amss.ac.cn/research/homePage/557e5446387442b580e7cead66328f23/myHomePage.html))  
+- 王向军 南开大学     ([Xiangjun Wang, Nankai](http://sms.nankai.edu.cn/2016/1112/c5621a49486/page.htm))  
+- 王彦英 河北师范大学 ([Yanying Wang, HNU](http://sxxy.hebtu.edu.cn/a/2013/03/24/2013032417051326080.html))  
+- 吴杰   河北师范大学 ([Jie Wu, HNU](http://www.math.nus.edu.sg/~matwujie/))  
 
 # 讨论班联络人 （Coordinators）  
 
-中科院联络人      苏阳     (Yang Su, suyang@math.ac.cn)  
-南开联络人        刘秀贵  (Xiugui Liu, xgliu@nankai.edu.cn)  
-河北师大联络人    丁雁鸿   (Yanhong Ding, yanhongding@163.com)  
-总联络人          黄瑞芝  (Ruizhi Huang, huangrz@amss.ac.cn)  
+- 中科院联络人      苏阳     (Yang Su, suyang@math.ac.cn)  
+- 南开联络人        刘秀贵  (Xiugui Liu, xgliu@nankai.edu.cn)  
+- 河北师大联络人    丁雁鸿   (Yanhong Ding, yanhongding@163.com)  
+- 总联络人          黄瑞芝  (Ruizhi Huang, huangrz@amss.ac.cn)  
 
 **如您有意参加讨论班，请联系以上任意一位联络人。**  
 **(If you are interested in BTH seminar, please contact any of the four coordinators)**  
