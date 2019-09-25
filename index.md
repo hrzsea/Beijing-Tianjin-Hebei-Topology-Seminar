@@ -2,7 +2,7 @@
 
 # 欢迎来到京津冀地区拓扑讨论班   
 ## (Welcome to 3J Topology Seminar)  
-_(1stJ=Jing (京), 2ndJ=Jin (津), 3rdJ=Ji (冀))_  
+_(1stJ=Jing, 京; 2ndJ=Jin, 津; 3rdJ=Ji, 冀)_  
 
 
 
