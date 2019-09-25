@@ -5,6 +5,12 @@
 
 At the summer of 2019, the topologists, from [Academy of Mathematics and Systems Science at Chinese Academy of Science (CAS)](http://english.amss.cas.cn/), [School of Mathematical Science at Nankai University (Nankai)](http://en.sms.nankai.edu.cn/) and [College of Mathematics and Information Science at Heibei Normal University (HNU)](http://sxxy.hebtu.edu.cn/), initiated and organized a regular topology seminar, with these three institutions as the main body. This seminar is aimed to promote the research and the development of topology in this district. Especially, it wishes to apply a reliable platform for the young topologists in this district to cultivate and develop their own abilities on research and related skills, to expand their research interests and enhance the academic communications.
 
+# 讨论班的主题，待定 (The subejcts of the seminar, TBC)
+
+- 同伦论 （Homotopy Theory）
+- 流形的几何与拓扑 (Geometry and Topology of Manifolds)
+- 谱序列  (Spectral Sequences)
+
 # 讨论班基本形式 (The basic form of the seminar)  
 
 -	讨论班一般在学期中间的周末举行   
