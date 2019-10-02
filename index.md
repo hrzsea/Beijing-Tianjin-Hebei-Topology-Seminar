@@ -1,4 +1,4 @@
-![](https://hrzseamath.files.wordpress.com/2019/10/3logo3.png?resize=219%2C219)               
+![](https://raw.githubusercontent.com/hrzsea/Beijing-Tianjin-Hebei-Topology-Seminar/master/3logo5.jp2)               
   
    
 
