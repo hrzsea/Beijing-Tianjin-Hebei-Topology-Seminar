@@ -1,4 +1,4 @@
-![](https://hrzseamath.files.wordpress.com/2019/10/logmixed.png)               
+![](https://hrzseamath.files.wordpress.com/2019/10/3logo3.png?resize=219%2C219)               
   
    
 
