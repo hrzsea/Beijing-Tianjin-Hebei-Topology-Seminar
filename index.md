@@ -1,4 +1,4 @@
-![](https://github.com/hrzsea/Beijing-Tianjin-Hebei-Topology-Seminar/blob/master/3logo5.jp2)    
+![](https://raw.githubusercontent.com/hrzsea/Beijing-Tianjin-Hebei-Topology-Seminar/master/3logo5.jp2)    
 
 # 欢迎来到京津冀地区拓扑讨论班   
 ## (Welcome to 3J Topology Seminar)  
