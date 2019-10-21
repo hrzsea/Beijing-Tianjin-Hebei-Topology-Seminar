@@ -10,7 +10,7 @@ _(1st J=Jing, **京**; 2nd J=Jin, **津**; 3rd J=Ji, **冀**)_
 
 At the summer of 2019, the topologists, from [Academy of Mathematics and Systems Science at Chinese Academy of Science (CAS)](http://english.amss.cas.cn/), [School of Mathematical Science at Nankai University (Nankai)](http://en.sms.nankai.edu.cn/) and [College of Mathematics and Information Science at Heibei Normal University (HNU)](http://sxxy.hebtu.edu.cn/), initiated and organized a regular topology seminar, with these three institutions as the main body. This seminar is aimed to promote the research and the development of topology in this district. Especially, it wishes to apply a reliable platform for the young topologists in this district to cultivate and develop their own abilities on research and related skills, to expand their research interests and to enhance the academic communications.
 
-# 讨论班的主题，待定 (The subejcts of the seminar, TBC)
+# 讨论班的主题，持续更新中 (The subejcts of the seminar, updated continuously)
 
 - 同伦论 （Homotopy Theory）
 - 流形的几何与拓扑 (Geometry and Topology of Manifolds)
@@ -46,7 +46,15 @@ At the summer of 2019, the topologists, from [Academy of Mathematics and Systems
 **如您有意参加讨论班，请联系以上任意一位联络人。**  
 **(If you are interested in 3J seminar, please contact any of the four coordinators)**  
 
-# 历次讨论班记录 （The list of historical seminars)  
+# 历次讨论班记录 （The list of historical seminars）  
 
--	[第一次讨论班，河北师范大学 (The 1st seminar, HNU)](https://hrzsea.github.io/1st-3J-Topology-Seminar/)  
+-	[第一次讨论班，河北师范大学 (The 1st seminar, HNU)](https://hrzsea.github.io/1st-3J-Topology-Seminar/) 
+-	[第二次讨论班，中科院数学与系统科学研究院 (The 2st seminar, CAS)](https://hrzsea.github.io/2st-3J-Topology-Seminar/) 
+
+
+# 讨论班中提出的若干问题 （Selected questions raised in seminars）  
+-	Duan: Chang complexes vs manifolds: 
+Is it possible to attach a top cell to a Chang complex to get a Poincare complex? In other words, which Chang complexes are almost Poincare complex? How about fake $\mathbb{C}P^3$?
+Su also pointed out that a Poincare complex can be realized as a manifold when the dimension is not divisible by $4$. 
+
 
