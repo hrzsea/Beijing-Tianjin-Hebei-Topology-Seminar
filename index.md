@@ -55,6 +55,5 @@ At the summer of 2019, the topologists, from [Academy of Mathematics and Systems
 # 讨论班中提出的若干问题 （Selected questions raised in seminars）  
 -	Duan: Chang complexes vs manifolds:  
 Is it possible to attach a top cell to a Chang complex to get a Poincare complex? In other words, which Chang complexes are almost Poincare complex? How about fake $\mathbb{C}P^3$?
-Su also pointed out that a Poincare complex can be realized as a manifold when the dimension is not divisible by $4$. 
 
 
