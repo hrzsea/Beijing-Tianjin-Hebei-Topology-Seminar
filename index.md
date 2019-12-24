@@ -49,7 +49,7 @@ At the summer of 2019, the topologists, from [Academy of Mathematics and Systems
 # 历次讨论班记录 （The list of historical seminars）  
 
 -	[第一次讨论班，河北师范大学 (The 1st seminar, HNU)](https://hrzsea.github.io/1st-3J-Topology-Seminar/) 
--	[第二次讨论班，中科院数学与系统科学研究院 (The 2nd seminar, CAS)](https://hrzsea.github.io/2st-3J-Topology-Seminar/) 
+-	[第二次讨论班，中科院数学与系统科学研究院 (The 2nd seminar, CAS)](https://hrzsea.github.io/2nd-3J-Topology-Seminar/) 
 
 
 # 讨论班中提出的若干问题 （Selected questions raised in seminars）  
