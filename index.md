@@ -21,7 +21,7 @@ At the summer of 2019, the topologists, from [Academy of Mathematics and Systems
 -	讨论班一般在学期中间的周末举行   
 (The seminar usually holds at weekend during academic semester)  
 -	一般每年举办3次讨论班，在上述三所单位轮流举行  
-(The seminar usually holds 3 times per year, rotating among the three institutions)  
+(The seminar is usually held 3 times per year, rotating among the three institutions)  
 -	讨论班的内容一般分为三部分：邀请报告，学生报告，自由讨论  
 (The seminar usually consists of three parts: invited talks, student talks, and free discussions)  
   
