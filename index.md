@@ -50,6 +50,8 @@ At the summer of 2019, the topologists, from [Academy of Mathematics and Systems
 
 -	[第一次讨论班，河北师范大学 (The 1st seminar, HNU)](https://hrzsea.github.io/1st-3J-Topology-Seminar/) 
 -	[第二次讨论班，中科院数学与系统科学研究院 (The 2nd seminar, CAS)](https://hrzsea.github.io/2nd-3J-Topology-Seminar/) 
+-	[第三次讨论班，南开大学 (The 3rd seminar, Nankai)](https://hrzsea.github.io/3rd-3J-Topology-Seminar/)
+-	[第四次讨论班，河北师范大学 (The 4th seminar, HNU)](https://hrzsea.github.io/4th-3J-Topology-Seminar/)
 
 
 # 讨论班中提出的若干问题 （Selected questions raised in seminars）  
